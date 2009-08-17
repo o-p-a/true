@@ -1,5 +1,5 @@
 #
-# makefile for wrapexec, Borland MAKE
+# makefile for true, Borland MAKE
 #
 
 # -5      Pentium Instructions
